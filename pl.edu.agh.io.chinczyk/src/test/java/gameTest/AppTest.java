@@ -1,4 +1,4 @@
-package pl.edu.agh.io.chinczyk;
+package gameTest;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
